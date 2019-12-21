@@ -143,9 +143,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="6958.5569"
-     inkscape:cy="3340.1328"
+     inkscape:zoom="0.088388348"
+     inkscape:cx="6172.9865"
+     inkscape:cy="1809.6215"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -180,7 +180,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
         <dc:creator>
@@ -939,8 +939,8 @@
     </g>
     <path
        inkscape:connector-curvature="0"
-       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#54d235;stroke-width:1.07949197px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 1354.3353,-244.87285 c 0,3.64488 -2.959,6.60396 -6.6039,6.60396 -3.6576,0 -6.6166,-2.95908 -6.6166,-6.60396 0,-3.65754 2.959,-6.61662 6.6166,-6.61662 3.6449,0 6.6039,2.95908 6.6039,6.61662 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#54d235;stroke-width:1.20781708px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1355.1211,-244.87212 c 0,4.07817 -3.3108,7.38901 -7.3889,7.38901 -4.0924,0 -7.4032,-3.31084 -7.4032,-7.38901 0,-4.09233 3.3108,-7.40317 7.4032,-7.40317 4.0781,0 7.3889,3.31084 7.3889,7.40317 z"
        id="path1465-4-4" />
     <path
        inkscape:connector-curvature="0"
@@ -989,8 +989,8 @@
        id="path1465-4-4-00-0-6" />
     <path
        inkscape:connector-curvature="0"
-       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#54d235;stroke-width:1.07949197px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 2292.6732,-244.87285 c 0,3.64488 -2.959,6.60396 -6.604,6.60396 -3.6576,0 -6.6165,-2.95908 -6.6165,-6.60396 0,-3.65754 2.9589,-6.61662 6.6165,-6.61662 3.6449,0 6.604,2.95908 6.604,6.61662 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#54d235;stroke-width:1.20781708px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 2293.459,-244.87212 c 0,4.07817 -3.3108,7.38901 -7.389,7.38901 -4.0924,0 -7.4031,-3.31084 -7.4031,-7.38901 0,-4.09233 3.3107,-7.40317 7.4031,-7.40317 4.0781,0 7.389,3.31084 7.389,7.40317 z"
        id="path1465-4-4-0-9-8-1" />
     <path
        inkscape:connector-curvature="0"
@@ -1068,14 +1068,14 @@
        ry="6.5799856"
        transform="rotate(-90)" />
     <ellipse
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffff00;stroke-width:1.076424;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffff00;stroke-width:1.20977616;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4562-33-1-8-7-8-9"
        cx="1276.6267"
        cy="2100.3733"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       rx="6.6097679"
-       ry="6.5799856"
+       rx="7.4286146"
+       ry="7.395143"
        transform="rotate(-90)" />
     <path
        inkscape:connector-curvature="0"
@@ -1099,8 +1099,8 @@
        inkscape:connector-curvature="0" />
     <path
        id="path2499-8-5-1"
-       d="m 1808.9145,-1034.0698 c 3.6438,0 6.602,2.9582 6.602,6.602 0,3.6566 -2.9582,6.6147 -6.602,6.6147 -3.6566,0 -6.6148,-2.9581 -6.6148,-6.6147 0,-3.6438 2.9582,-6.602 6.6148,-6.602 z"
-       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#5db3d8;stroke-width:1.07918012px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1808.9153,-1034.8575 c 4.078,0 7.3889,3.3109 7.3889,7.3889 0,4.0925 -3.3109,7.4032 -7.3889,7.4032 -4.0925,0 -7.4033,-3.3107 -7.4033,-7.4032 0,-4.078 3.3108,-7.3889 7.4033,-7.3889 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#5db3d8;stroke-width:1.20781696px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0" />
     <ellipse
        inkscape:transform-center-y="31.27753"
@@ -1527,77 +1527,77 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.79799998;stroke-miterlimit:4;stroke-dasharray:none"
-       x="1933.8353"
+       x="1942.0205"
        y="-607.20013"
        id="text4843"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan4841"
-         x="1933.8353"
+         x="1942.0205"
          y="-607.20013"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.79799998;stroke-miterlimit:4;stroke-dasharray:none">Akköprü</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.79799998;stroke-miterlimit:4;stroke-dasharray:none"
-       x="1948.672"
-       y="-531.48004"
+       x="1944.2258"
+       y="-529.51385"
        id="text4847"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan4845"
-         x="1948.672"
-         y="-531.48004"
+         x="1944.2258"
+         y="-529.51385"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.79799998;stroke-miterlimit:4;stroke-dasharray:none">Atatürk</tspan><tspan
          sodipodi:role="line"
-         x="1948.672"
-         y="-518.25092"
+         x="1944.2258"
+         y="-516.28467"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.79799998;stroke-miterlimit:4;stroke-dasharray:none"
          id="tspan2255">Kültür</tspan><tspan
          sodipodi:role="line"
-         x="1948.672"
-         y="-505.0217"
+         x="1944.2258"
+         y="-503.05551"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.79799998;stroke-miterlimit:4;stroke-dasharray:none"
          id="tspan2253">Merkezi</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.79799998;stroke-miterlimit:4;stroke-dasharray:none"
-       x="1968.8593"
+       x="1961.0074"
        y="-418.64685"
        id="text4851"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan4849"
-         x="1968.8593"
+         x="1961.0074"
          y="-418.64685"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.79799998;stroke-miterlimit:4;stroke-dasharray:none">Ulus</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.79799998;stroke-miterlimit:4;stroke-dasharray:none"
-       x="2008.4701"
-       y="-316.93863"
+       x="1947.8986"
+       y="-325.73529"
        id="text4855"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan4853"
-         x="2008.4701"
-         y="-316.93863"
+         x="1947.8986"
+         y="-325.73529"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.79799998;stroke-miterlimit:4;stroke-dasharray:none">Sıhhiye</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.79799998;stroke-miterlimit:4;stroke-dasharray:none"
-       x="2003.6517"
-       y="-226.80731"
+       x="1948.233"
+       y="-221.8073"
        id="text4859"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan4857"
-         x="2003.6517"
-         y="-226.80731"
+         x="1948.233"
+         y="-221.8073"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.79799998;stroke-miterlimit:4;stroke-dasharray:none">Kızılay</tspan></text>
     <text
        xml:space="preserve"
@@ -1750,39 +1750,39 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="1808.8446"
+       x="1823.8446"
        y="-836.2038"
        id="text2544"><tspan
          sodipodi:role="line"
          id="tspan2542"
-         x="1808.8446"
+         x="1823.8446"
          y="-836.2038"
          style="stroke-width:0.26458332">Yunus Emre</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="1815.8868"
-       y="-937.88257"
+       x="1823.7388"
+       y="-930.73456"
        id="text2548"><tspan
          sodipodi:role="line"
          id="tspan2546"
-         x="1815.8868"
-         y="-937.88257"
+         x="1823.7388"
+         y="-930.73456"
          style="stroke-width:0.26458332">TRT Seyir</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="1808.9081"
-       y="-1020.8531"
+       x="1823.5588"
+       y="-1024.7097"
        id="text2552"><tspan
          sodipodi:role="line"
          id="tspan2550"
-         x="1808.9081"
-         y="-1020.8531"
+         x="1823.5588"
+         y="-1024.7097"
          style="stroke-width:0.26458332">Şentepe</tspan></text>
     <g
        id="g4298"
-       transform="translate(-551.4534,28.793666)">
+       transform="translate(-551.7497,22.57716)">
       <path
          inkscape:connector-curvature="0"
          style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332"
@@ -1806,7 +1806,7 @@
     </g>
     <g
        id="g4304"
-       transform="translate(-469.49816,70.664446)">
+       transform="translate(-464.0755,62.94146)">
       <path
          inkscape:connector-curvature="0"
          style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332"
@@ -1830,7 +1830,7 @@
     </g>
     <g
        id="g4318"
-       transform="translate(-393.04186,155.43565)">
+       transform="translate(-371.25725,147.58568)">
       <path
          inkscape:connector-curvature="0"
          style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332"
@@ -1894,7 +1894,7 @@
     </g>
     <g
        id="g4328"
-       transform="translate(-338.059,127.4644)">
+       transform="translate(-332.8055,117.06478)">
       <path
          inkscape:connector-curvature="0"
          style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332"
@@ -1938,7 +1938,7 @@
     </g>
     <g
        id="g7238"
-       transform="translate(-42.635605,128.07048)">
+       transform="translate(-48.177,113.7753)">
       <path
          inkscape:connector-curvature="0"
          style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332"
@@ -1982,7 +1982,7 @@
     </g>
     <g
        id="g7228"
-       transform="translate(-15.084705,137.26733)">
+       transform="translate(-27.0712,126.9091)">
       <path
          inkscape:connector-curvature="0"
          style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332"
@@ -2020,7 +2020,7 @@
          id="path1569" />
     </g>
     <g
-       transform="translate(1502.3488,1299.6275)"
+       transform="translate(1502.9882,1278.0024)"
        id="g4366">
       <path
          inkscape:connector-curvature="0"
@@ -2069,7 +2069,7 @@
          id="path1587" />
     </g>
     <g
-       transform="translate(1533.1086,1261.3168)"
+       transform="translate(1537.6425,1244.2207)"
        id="g4355">
       <path
          inkscape:connector-curvature="0"
@@ -2098,7 +2098,7 @@
          id="path1611" />
     </g>
     <g
-       transform="translate(1562.633,1288.542)"
+       transform="translate(1582.3282,1280.692)"
        id="g4348">
       <path
          inkscape:connector-curvature="0"
@@ -2142,7 +2142,7 @@
          id="path1627" />
     </g>
     <g
-       transform="translate(1604.6148,1335.7863)"
+       transform="translate(1613.413,1320.7811)"
        id="g4338">
       <path
          inkscape:connector-curvature="0"
@@ -2188,90 +2188,90 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="2106.5813"
-       y="-698.30573"
+       x="2114.4631"
+       y="-710.56018"
        id="text1534"><tspan
          sodipodi:role="line"
          id="tspan1532"
-         x="2106.5813"
-         y="-698.30573"
+         x="2114.4631"
+         y="-710.56018"
          style="stroke-width:0.26458332">Dışkapı</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="2079.3533"
-       y="-797.22852"
+       x="2114.6643"
+       y="-804.37646"
        id="text1538"><tspan
          sodipodi:role="line"
          id="tspan1536"
-         x="2079.3533"
-         y="-797.22852"
+         x="2114.6643"
+         y="-804.37646"
          style="stroke-width:0.26458332">Meteoroloji</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="2106.5813"
-       y="-885.95929"
+       x="2114.4631"
+       y="-898.20844"
        id="text1542"><tspan
          sodipodi:role="line"
          id="tspan1540"
-         x="2106.5813"
-         y="-885.95929"
+         x="2114.4631"
+         y="-898.20844"
          style="stroke-width:0.26458332">Belediye</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="2100.3733"
-       y="-988.53662"
+       x="2114.6643"
+       y="-992.03485"
        id="text1546"><tspan
          sodipodi:role="line"
          id="tspan1544"
-         x="2100.3733"
-         y="-988.53662"
+         x="2114.6643"
+         y="-992.03485"
          style="stroke-width:0.26458332">Mecidiye</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="2085.9258"
+       x="2114.4631"
        y="-1085.8668"
        id="text1550"><tspan
          sodipodi:role="line"
          id="tspan1548"
-         x="2085.9258"
+         x="2114.4631"
          y="-1085.8668"
          style="stroke-width:0.26458332">Kuyubaşı</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="2100.3733"
-       y="-1176.1902"
+       x="2114.4631"
+       y="-1178.752"
        id="text1554"><tspan
          sodipodi:role="line"
          id="tspan1552"
-         x="2100.3733"
-         y="-1176.1902"
+         x="2114.4631"
+         y="-1178.752"
          style="stroke-width:0.26458332">Dutluk</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="2091.1445"
-       y="-1265.6582"
+       x="2114.7593"
+       y="-1272.8062"
        id="text1558"><tspan
          sodipodi:role="line"
          id="tspan1556"
-         x="2091.1445"
-         y="-1265.6582"
+         x="2114.7593"
+         y="-1272.8062"
          style="stroke-width:0.26458332">Gazino</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="2108.2886"
-       y="-615.19897"
+       x="2115.2886"
+       y="-615.19916"
        id="text1530"><tspan
          sodipodi:role="line"
          id="tspan1528"
-         x="2108.2886"
-         y="-615.19897"
+         x="2115.2886"
+         y="-615.19916"
          style="stroke-width:0.26458332">ASKİ</tspan></text>
     <text
        xml:space="preserve"
