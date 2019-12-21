@@ -29,7 +29,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.056568543"
-     inkscape:cx="3505.9195"
+     inkscape:cx="270.906"
      inkscape:cy="3243.5521"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -61,9 +61,9 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
         <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-nc/4.0/" />
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
         <dc:creator>
           <cc:Agent>
             <dc:title>Ömer Faruk Birgül</dc:title>
@@ -71,12 +71,13 @@
         </dc:creator>
         <dc:publisher>
           <cc:Agent>
-            <dc:title>Ömer Faruk Birgül</dc:title>
+            <dc:title></dc:title>
           </cc:Agent>
         </dc:publisher>
+        <dc:date>Aralık 2019</dc:date>
       </cc:Work>
       <cc:License
-         rdf:about="http://creativecommons.org/licenses/by-nc/4.0/">
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
         <cc:permits
            rdf:resource="http://creativecommons.org/ns#Reproduction" />
         <cc:permits
@@ -85,10 +86,10 @@
            rdf:resource="http://creativecommons.org/ns#Notice" />
         <cc:requires
            rdf:resource="http://creativecommons.org/ns#Attribution" />
-        <cc:prohibits
-           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
         <cc:permits
            rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
       </cc:License>
     </rdf:RDF>
   </metadata>
