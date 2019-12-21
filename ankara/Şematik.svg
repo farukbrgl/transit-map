@@ -141,14 +141,14 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#d3adad"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0.45490196"
      inkscape:pageshadow="2"
      inkscape:zoom="0.088388348"
-     inkscape:cx="5584.66"
-     inkscape:cy="1654.9604"
+     inkscape:cx="5584.9984"
+     inkscape:cy="749.42068"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -170,7 +170,8 @@
      inkscape:snap-center="true"
      inkscape:snap-text-baseline="true"
      inkscape:measure-start="1669.04,181.787"
-     inkscape:measure-end="1937.01,181.827">
+     inkscape:measure-end="1937.01,181.827"
+     inkscape:pagecheckerboard="true">
     <inkscape:grid
        type="xygrid"
        id="grid1208" />
