@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1940"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="t1.svg">
+  <defs
+     id="defs1934">
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="-172.46582"
+     inkscape:cy="574.4063"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1937">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#5db3d8;stroke-width:16;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 87.861718,254.90818 114.35795,198.14368 95.181361,162.73047 62.696801,28.306175"
+       id="path2536"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path2499"
+       d="m 98.875705,254.9188 c 0,6.07301 -4.930374,11.00339 -11.003404,11.00339 -6.094191,0 -11.024565,-4.93038 -11.024565,-11.00339 0,-6.09424 4.930374,-11.02462 11.024565,-11.02462 6.07303,0 11.003404,4.93038 11.003404,11.02462 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#5db3d8;stroke-width:1.79863346px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path2499-9"
+       d="m 125.37196,198.1543 c 0,6.07301 -4.93038,11.00339 -11.00345,11.00339 -6.09418,0 -11.02456,-4.93038 -11.02456,-11.00339 0,-6.09424 4.93038,-11.02462 11.02456,-11.02462 6.07307,0 11.00345,4.93038 11.00345,11.02462 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#5db3d8;stroke-width:1.79863346px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path2499-8"
+       d="m 106.19534,162.74109 c 0,6.07301 -4.93037,11.00339 -11.003399,11.00339 -6.094191,0 -11.024565,-4.93038 -11.024565,-11.00339 0,-6.09424 4.930374,-11.02462 11.024565,-11.02462 6.073029,0 11.003399,4.93038 11.003399,11.02462 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#5db3d8;stroke-width:1.79863346px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path2499-86"
+       d="m 73.710785,28.316791 c 0,6.073011 -4.930367,11.003391 -11.003404,11.003391 -6.094191,0 -11.024565,-4.93038 -11.024565,-11.003391 0,-6.094242 4.930374,-11.024622 11.024565,-11.024622 6.073037,0 11.003404,4.93038 11.003404,11.024622 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#5db3d8;stroke-width:1.79863346px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="104.71143"
+       y="258.95102"
+       id="text2540"><tspan
+         sodipodi:role="line"
+         id="tspan2538"
+         x="104.71143"
+         y="258.95102"
+         style="stroke-width:0.26458332">Yenimahalle</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="131.20769"
+       y="201.74731"
+       id="text2544"><tspan
+         sodipodi:role="line"
+         id="tspan2542"
+         x="131.20769"
+         y="201.74731"
+         style="stroke-width:0.26458332">Yunus Emre</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="111.92522"
+       y="165.63031"
+       id="text2548"><tspan
+         sodipodi:role="line"
+         id="tspan2546"
+         x="111.92522"
+         y="165.63031"
+         style="stroke-width:0.26458332">TRT Seyir</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="79.26075"
+       y="31.057842"
+       id="text2552"><tspan
+         sodipodi:role="line"
+         id="tspan2550"
+         x="79.26075"
+         y="31.057842"
+         style="stroke-width:0.26458332">Şentepe</tspan></text>
+  </g>
+</svg>
