@@ -9,7 +9,7 @@
 
 Ankaray, Başkentray, M123, M4 ve T1 hatlarının yer aldığı metro ağ haritası
 
-### Hatların RGBA kodları
+### RGBA kodları
 ```
 A1  : 54d235ff
 B1  : ff2b23ff
