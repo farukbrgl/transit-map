@@ -3,7 +3,7 @@ Metro maps and diagrams of cities in Turkey
 
 [Homepage](https://farukbrgl.github.io/)
 
-[Türkçe](https://github.com/farukbrgl/metro-harita/blob/master/README_tr.md)
+[Türkçe](https://github.com/farukbrgl/metro-harita/blob/master/README.md)
 
 ## Ankara Metro Network Diagram (Not yet completed)
 
