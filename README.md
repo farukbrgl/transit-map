@@ -1,7 +1,9 @@
 # metro-harita
 Şehirlerin metro haritaları
 
-[Websitesi](https://farukbrgl.github.io/)
+[Anasayfa](https://farukbrgl.github.io/)
+
+[English](https://github.com/farukbrgl/metro-harita/blob/master/README_en.md)
 
 ## Ankara Metro Ağ Haritası (Henüz Tamamlanmamıştır)
 
