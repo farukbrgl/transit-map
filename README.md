@@ -24,8 +24,10 @@ Arka: ffa17f3d
 
 ### Değişiklikler
 * Bazı simgeler eklendi (TCDD, AŞTİ, bazı üniversiteler, AVM).
-* B1 ff0000ff -> ff2b23ff
-* M4 ffff00ff -> e827ecff
+```
+B1 ff0000ff -> ff2b23ff
+M4 ffff00ff -> e827ecff
+```
 
 ## Lisans
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Lisansı" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />Bu eser <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"> Creative Commons Atıf-AynıLisanslaPaylaş 4.0 Uluslararası Lisansı</a> ile lisanslanmıştır.
