@@ -19,10 +19,13 @@ T1  : 5db3d8ff
 Arka: ffa17f3d
 ```
 ### Yazı tipleri
-* [Ubuntu Condensed](https://design.ubuntu.com/font/) - Harita anahtarındaki hat rozetleri
-* [Ubuntu](https://design.ubuntu.com/font/) - Geriye kalan her şey
+* [Gidole](https://gidole.github.io/) Harita anahtarı ve Ankara yazısı
+* [Gidolinya](https://gidole.github.io/) Durak isimleri ve geri kalan her şey
 
 ### Değişiklikler
+
+#### 19.01.2020
+* Yazı tipleri Ubuntu ailesinden Gidole ailesine değişti.
 
 #### 10.01.2020
 * Bazı simgeler eklendi (TCDD, AŞTİ, bazı üniversiteler, AVM).
