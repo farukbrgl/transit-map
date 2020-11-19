@@ -18,11 +18,13 @@ M4  : e827ecff
 T1  : 5db3d8ff
 Arka: ffa17f3d
 ```
-### Fontlar
+### Yazı tipleri
 * [Ubuntu Condensed](https://design.ubuntu.com/font/) - Harita anahtarındaki hat rozetleri
 * [Ubuntu](https://design.ubuntu.com/font/) - Geriye kalan her şey
 
 ### Değişiklikler
+
+#### 10.01.2020
 * Bazı simgeler eklendi (TCDD, AŞTİ, bazı üniversiteler, AVM).
 ```
 B1 ff0000ff -> ff2b23ff
