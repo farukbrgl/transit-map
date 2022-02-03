@@ -2,15 +2,13 @@
 
 Şehirlerin metro haritaları
 
-[Anasayfa](https://farukbrgl.github.io/)
-
-![şematik](https://github.com/farukbrgl/metro-harita/blob/0fff839c14b541eb79bcb64341960194aafd666f/ankara/%C5%9Eematik.png)
-
 [English](https://github.com/farukbrgl/metro-harita/blob/master/README_en.md)
 
 ## Ankara Metro Ağ Haritası (Henüz Tamamlanmamıştır)
 
 Ankaray, Başkentray, M123, M4 ve T1 hatlarının yer aldığı metro ağ haritası
+
+![Ankara-metro-haritası](https://github.com/farukbrgl/metro-harita/blob/0fff839c14b541eb79bcb64341960194aafd666f/ankara/%C5%9Eematik.png)
 
 ### RGBA kodları
 
@@ -28,6 +26,10 @@ Ankaray, Başkentray, M123, M4 ve T1 hatlarının yer aldığı metro ağ harita
 
 ### Değişiklikler
 
+#### 04.02.2022
+
+-   Tekrar çalışmaya başladım. (Değişiklikler eklenecektir.)
+
 #### 19.01.2020
 
 -   Yazı tipleri Ubuntu ailesinden Gidole ailesine değişti.
@@ -35,10 +37,8 @@ Ankaray, Başkentray, M123, M4 ve T1 hatlarının yer aldığı metro ağ harita
 #### 10.01.2020
 
 -   Bazı simgeler eklendi (TCDD, AŞTİ, bazı üniversiteler, AVM).
-
-
-    B1 ff0000ff -> ff2b23ff
-    M4 ffff00ff -> e827ecff
+-   `B1 ff0000ff -> ff2b23ff`
+-   `M4 ffff00ff -> e827ecff`
 
 ## Lisans
 
