@@ -8,7 +8,7 @@ Metro maps and diagrams of cities in Turkey
 
 Metro network diagram with lines Ankaray, Başkantray, M123, M4 and T1
 
-![Ankara-metro-map](https://github.com/farukbrgl/metro-harita/blob/0fff839c14b541eb79bcb64341960194aafd666f/ankara/%C5%9Eematik.png)
+![Ankara-metro-map](https://github.com/farukbrgl/metro-harita/raw/master/ankara/%C5%9Eematik.png)
 
 ### RGBA codes
 

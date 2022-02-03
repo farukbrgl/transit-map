@@ -8,7 +8,7 @@
 
 Ankaray, Başkentray, M123, M4 ve T1 hatlarının yer aldığı metro ağ haritası
 
-![Ankara-metro-haritası](https://github.com/farukbrgl/metro-harita/blob/0fff839c14b541eb79bcb64341960194aafd666f/ankara/%C5%9Eematik.png)
+![Ankara-metro-haritası](https://github.com/farukbrgl/metro-harita/raw/master/ankara/%C5%9Eematik.png)
 
 ### RGBA kodları
 
