@@ -14,7 +14,7 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg5842"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="aktarmalar.svg">
   <defs
      id="defs5836" />
@@ -25,16 +25,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="-537.05091"
-     inkscape:cy="602.48107"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="255.47468"
+     inkscape:cy="752.57914"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1280"
-     inkscape:window-height="961"
-     inkscape:window-x="1358"
-     inkscape:window-y="-8"
+     inkscape:window-height="995"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-midpoints="true"
@@ -57,7 +57,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <dc:creator>
           <cc:Agent>
             <dc:title>Ömer Faruk Birgül</dc:title>
@@ -161,5 +161,15 @@
          id="rect6970-6-3-23"
          style="opacity:1;fill:#ffffff;fill-opacity:0;stroke:#5db3d8;stroke-width:0.9582777;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:0;fill-rule:nonzero;stroke:#5db3d8;stroke-width:1.79863346px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 83.827851,53.34198 c -6.094201,0 -11.024651,4.930351 -11.024651,11.02465 0,6.073 4.93045,11.003463 11.024651,11.003463 2.191753,0 4.232942,-0.644536 5.948989,-1.750799 1.71912,1.106184 3.765214,1.750799 5.964494,1.750799 6.073106,0 11.003466,-4.930463 11.003466,-11.003463 0,-6.094296 -4.93036,-11.02465 -11.003466,-11.02465 -2.199227,0 -4.245401,0.644681 -5.964494,1.75183 -1.716021,-1.107229 -3.757292,-1.75183 -5.948989,-1.75183 z"
+       id="path2499-9-3" />
+    <path
+       style="fill:#ffffff;fill-opacity:0;stroke:#5db3d8;stroke-width:6.79937029;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 311.52539 319.94727 A 42.052175 42.052175 0 0 0 269.47461 362 A 42.052175 42.052175 0 0 0 290.50391 398.37695 A 42.052175 42.052175 0 0 0 290.50195 398.41797 A 42.052175 42.052175 0 0 0 332.55273 440.4707 A 42.052175 42.052175 0 0 0 374.60547 398.41797 A 42.052175 42.052175 0 0 0 374.60352 398.35742 A 42.052175 42.052175 0 0 0 395.63086 362 A 42.052175 42.052175 0 0 0 353.57812 319.94727 A 42.052175 42.052175 0 0 0 332.56445 325.63281 A 42.052175 42.052175 0 0 0 311.52539 319.94727 z "
+       transform="scale(0.26458333)"
+       id="path848" />
   </g>
 </svg>
