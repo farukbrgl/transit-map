@@ -17,7 +17,8 @@ Metro network diagram with lines Ankaray, Başkantray, M123, M4 and T1
     M123: f7aa35ff
     M4  : e827ecff
     T1  : 5db3d8ff
-    Arka: ffa17f3d
+    Back: ffa17f3d
+    LUC : ebebebff
 
 ### Fonts
 
@@ -25,6 +26,13 @@ Metro network diagram with lines Ankaray, Başkantray, M123, M4 and T1
 -   [Gidolinya](https://gidole.github.io/) - Station names and everything else.
 
 ### Changelog
+
+#### 06.02.2022
+
+-   Schematic changed completely. Change to curly lines.
+-   Line under constructions (LUC) added. (Ankaray ve M4 extensions)
+-   Several icons added.
+-   `Back ffa17f3d -> ffffffff`
 
 #### 04.02.2022
 
