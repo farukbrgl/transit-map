@@ -2,7 +2,7 @@
 
 Metro maps and diagrams of cities in Turkey
 
-[Transit Dictionary](https://github.com/farukbrgl/transit-map/blob/master/trasit_dictionary_en.md)
+[Transit Dictionary](https://github.com/farukbrgl/transit-map/blob/master/transit_dictionary_en.md)
 
 [Türkçe](https://github.com/farukbrgl/metro-harita/blob/master/README.md)
 
