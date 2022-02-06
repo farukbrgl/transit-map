@@ -2,7 +2,7 @@
 
 [English](https://github.com/farukbrgl/metro-harita/blob/master/ankara/README_en.md)
 
-Ankaray, Başkentray, M123, M4 ve T1 hatlarının yer aldığı metro ağ haritası
+Ankaray, Başkentray, M123, M4 ve T1 hatlarının yer aldığı ulaşım haritası
 
 ![Ankara-metro-haritası](https://github.com/farukbrgl/metro-harita/raw/master/ankara/%C5%9Eematik.png)
 
