@@ -2,6 +2,8 @@
 
 Türkiye'deki şehirlerin ulaşım haritaları
 
+[Ulaşım Sözlüğü](https://github.com/farukbrgl/transit-map/blob/master/trasit_dictionary.md)
+
 [English](https://github.com/farukbrgl/transit-map/blob/master/README_en.md)
 
 ## Ankara Ulaşım Haritası

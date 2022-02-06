@@ -1,52 +1,22 @@
-# metro-harita
+# Transit Map
 
 Metro maps and diagrams of cities in Turkey
 
+[Transit Dictionary](https://github.com/farukbrgl/transit-map/blob/master/trasit_dictionary_en.md)
+
 [Türkçe](https://github.com/farukbrgl/metro-harita/blob/master/README.md)
 
-## Ankara Metro Network Diagram (Not yet completed)
+## Ankara Transit Map
 
 Metro network diagram with lines Ankaray, Başkantray, M123, M4 and T1
 
 ![Ankara-metro-map](https://github.com/farukbrgl/metro-harita/raw/master/ankara/%C5%9Eematik.png)
 
-### RGBA codes
+## İzmir Transit Map (Will start soon)
 
-    A1  : 54d235ff
-    B1  : ff2b23ff
-    M123: f7aa35ff
-    M4  : e827ecff
-    T1  : 5db3d8ff
-    Back: ffa17f3d
-    LUC : ebebebff
+Metro network diagram with lines İzban, Metro ve Tram.
 
-### Fonts
-
--   [Gidole](https://gidole.github.io/) - The legend and ANKARA term.
--   [Gidolinya](https://gidole.github.io/) - Station names and everything else.
-
-### Changelog
-
-#### 06.02.2022
-
--   Schematic changed completely. Change to curly lines.
--   Line under constructions (LUC) added. (Ankaray ve M4 extensions)
--   Several icons added.
--   `Back ffa17f3d -> ffffffff`
-
-#### 04.02.2022
-
--   Started working again. (Changes will be added later.)
-
-#### 19.01.2020
-
--   Typeface changed from the Ubuntu family to th Gidole family.
-
-#### 10.01.2020
-
--   Some icons were added (TCDD (railway), AŞTİ (bus station), some universities, mall).
--   `B1 ff0000ff -> ff2b23ff`
--   `M4 ffff00ff -> e827ecff`
+<!-- ![Ankara-ulaşım-haritası](https://github.com/farukbrgl/transit-map/raw/master/ankara/%C5%9Eematik.png) -->
 
 ## Licence
 
